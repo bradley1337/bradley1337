@@ -4,7 +4,7 @@
 ### **About me:**
 
 - 🔭 I’m currently working on: Bubbly (FiveM Framework) 
-- 🌱 I’m currently studing: I'm doing many cyber security course's :) 
+- 🌱 I’m currently studing: Cyber Security! (aiming to become a pentester! <3 )
 - 📫 How to reach me: On discord! bradley#1337
 
 
