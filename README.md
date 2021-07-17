@@ -1,7 +1,7 @@
 ### Hi im Bradley 👋
 
 
-### **About me:**
+### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Views&color=blue&style=plastic)
 
 - 🔭 I’m currently working on: Private FiveM projects and TryHackMe
 - 🌱 I’m currently studing: Cyber Security! ( aiming to become a pentester! <3 )
