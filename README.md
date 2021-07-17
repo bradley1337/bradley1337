@@ -8,4 +8,10 @@
 - 📫 How to reach me: On discord! bradley#1337 <3 
 
 
+### **I own ND Hosting!**
+
+- 💻 We offer great ready servers to go! (Expanding to VPS's and Dedicated Servers VERY soon!)
+- 🖥️ Check us out [here!](https://client.ndhosts.com)
+- 👨‍💻 Join the discord to more updates! https://discord.gg/ndhosts**
+
 ![Bradley's github stats](https://github-readme-stats.vercel.app/api?username=bradley1337&show_icons=true&theme=radical)
