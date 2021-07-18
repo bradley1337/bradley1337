@@ -24,4 +24,4 @@
 
 ![Bradley's github stats](https://github-readme-stats.vercel.app/api?username=bradley1337&show_icons=true&theme=radical)
 
-![ND](https://cdn.discordapp.com/attachments/854066603330109482/855295391670075402/demon.png)
+## ![ND](https://cdn.discordapp.com/attachments/854066603330109482/855295391670075402/demon.png)
