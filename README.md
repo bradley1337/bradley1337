@@ -11,7 +11,7 @@
 ### **I own ND Hosting!**
 
 - 💻 We offer great ready servers to go! (Expanding to VPS's and Dedicated Servers VERY soon!)
-- 🖥️ Check us out [here!](https://client.ndhosts.com)
+- 🖥️ Check us out **[here!](https://client.ndhosts.com)**
 - 👨‍💻 Join the discord to more updates! **https://discord.gg/ndhosts**
 
 ## **Languages and Tools:**
