@@ -23,3 +23,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Bradley's github stats](https://github-readme-stats.vercel.app/api?username=bradley1337&show_icons=true&theme=radical)
+<iframe src="https://cdn.discordapp.com/attachments/854066603330109482/855295391670075402/demon.png" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
