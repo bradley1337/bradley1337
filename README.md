@@ -3,16 +3,15 @@
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Views&color=blue&style=plastic)
 
-- 🔭 I’m currently working on: Private FiveM projects and TryHackMe
+- 🔭 I’m currently working on: Vulcan-AntiCheat (FiveM AntiCheat) [Discord](https://discord.gg/vcac)
 - 🌱 I’m currently studing: Cyber Security! ( aiming to become a pentester! <3 )
 - 📫 How to reach me: On discord! bradley#1337 <3 
 
 
-### **I own ND Hosting!**
+### **I am apart of ND Development!**
 
-- 💻 We offer great ready servers to go! (Expanding to VPS's and Dedicated Servers VERY soon!)
-- 🖥️ Check us out **[here!](https://client.ndhosts.com)**
-- 👨‍💻 Join the discord to more updates! **https://discord.gg/ndhosts**
+- 💻 Great development team, who work mainly within FiveM LUA and we offer a large variety of Developmnet services on FiveM.
+- 👨‍💻 Join the discord to more updates! **https://discord.gg/nsdev**
 
 ## **Languages and Tools:**
 
