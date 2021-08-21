@@ -10,7 +10,7 @@
 
 ### **I am apart of ND Development!**
 
-- 💻 Great development team, who work mainly within FiveM LUA and we offer a large variety of Developmnet services on FiveM.
+- 💻 Great development team, who work mainly within FiveM LUA and we offer a large variety of development services on FiveM.
 - 👨‍💻 Join the discord to more updates! **https://discord.gg/nsdev**
 
 ## **Languages and Tools:**
