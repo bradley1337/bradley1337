@@ -3,15 +3,9 @@
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Views&color=blue&style=plastic)
 
-- 🔭 I’m currently working on: school 🥱
+- 🔭 I’m currently working on: school.
 - 🌱 I’m currently studing: Cyber Security! ( aiming to become a pentester! <3 )
 - 📫 How to reach me: On discord! bradley#1337 <3 
-
-
-### **I am apart of ND Development!**
-
-- 💻 Great development team, who work mainly within FiveM LUA and we offer a large variety of development services on FiveM.
-- 👨‍💻 Join the ND discord! **https://discord.gg/nsdev**
 
 ## **Languages and Tools:**
 
