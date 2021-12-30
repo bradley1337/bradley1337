@@ -1,5 +1,11 @@
 ### Hi im Bradley 👋
 
+<p align="center">
+	<a href="https://github.com/bradley1337">
+		<img src="https://discord.c99.nl/widget/theme-4/239826781996187648.png"/>
+	</a>
+</p>
+
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Views&color=blue&style=plastic)
 
