@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: Yamato (A FiveM Project)
 - 🌱 I’m currently studing: Cyber Security & C#! ( aiming to become a pentester! <3 )
-- 📫 How to reach me: On discord! bradley#1337 <3 
+- 📫 How to reach me: On discord! bradley#3070 <3 
 
 ## **Languages and Tools:**
 
