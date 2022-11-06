@@ -9,9 +9,9 @@
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Visitors&color=6a0dad&style=plastic)
 
-- 🔭 I’m currently working on: Yamato (A FiveM Project)
+- 🔭 I’m currently working on: Project Private ✨
 - 🌱 I’m currently studing: Cyber Security & C#! ( aiming to become a pentester! <3 )
-- 📫 How to reach me: On discord! bradley#3070 <3 
+- 📫 How to reach me: On discord! bradley#0672 <3 
 
 ## **Languages and Tools:**
 
