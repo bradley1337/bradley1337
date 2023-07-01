@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/bradley1337">
-		<img src="https://discord.c99.nl/widget/theme-4/239826781996187648.png"/>
+		<img src="https://discord.c99.nl/widget/theme-4/855730928713990146.png"/>
 	</a>
 </p>
 
