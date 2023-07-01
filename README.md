@@ -9,9 +9,9 @@
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Visitors&color=6a0dad&style=plastic)
 
-- 🔭 I’m currently working on: Project Private ✨
-- 🌱 I’m currently studing: Cyber Security & C#! ( aiming to become a pentester! <3 )
-- 📫 How to reach me: On discord! bradley#0672 <3 
+- 🔭 I’m currently working on: Preparing for my PNPT!✨
+- 🌱 I’m currently studing: Cyber Security 💻
+- 📫 How to reach me: On discord! bradley1337 <3 
 
 ## **Languages and Tools:**
 
