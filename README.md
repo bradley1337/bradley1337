@@ -8,7 +8,7 @@
 
 ### **About me:** &nbsp; ![](https://komarev.com/ghpvc/?username=bradley1337&label=Visitors&color=6a0dad&style=plastic)
 
-- 🔭 I’m currently working on: Preparing for my PNPT!✨
+- 🔭 I’m currently working on: Vulcan✨
 - 🌱 I’m currently studing: Cyber Security 💻
 - 📫 How to reach me: On discord! bradley1337 <3 
 
